@@ -1,3 +1,4 @@
+![UNIJS-](https://user-images.githubusercontent.com/121300540/221328450-1c84e694-7192-43df-b819-17ab64d60af1.gif)
 
  
  
@@ -11,7 +12,7 @@
 
 ### Feito com o unico objetivo de ensinar jovens carentes a trabalhar com tabelas e fazer um site usando apenas html. 
 
-### Não é recomendado usar tabelas pra fazer sites.
+### Observação muito importante: Não é recomendado usar tabelas pra fazer sites.
 
   
   
