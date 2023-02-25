@@ -31,7 +31,7 @@
 
 ### 🚀 acesse o site UNIJS
 
-[]()
+[https://jocemarsilva.github.io/UNIJS-Universidade/]()
 
 ## Para Instalação:
 
