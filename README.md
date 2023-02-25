@@ -8,9 +8,9 @@
  
  
 
-## Sobre o projeto
+## Sobre o projeto Social
 
-### Feito com o unico objetivo de ensinar jovens carentes a trabalhar com tabelas e fazer um site usando apenas html. 
+### Feito para ensinar jovens carentes a trabalhar com tabelas e fazer um site usando apenas html. 
 
 ### Observação muito importante: Não é recomendado usar tabelas pra fazer sites.
 
