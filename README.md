@@ -12,7 +12,7 @@
 
 ### Feito para ensinar jovens carentes a trabalhar com tabelas e fazer um site usando apenas html. 
 
-### Observação muito importante: Não é recomendado usar tabelas pra fazer sites.
+### Observação importante: Não é recomendado usar tabelas pra fazer sites.
 
   
   
