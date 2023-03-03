@@ -1,8 +1,9 @@
+ # Site Universidade UNIJS
+
 ![UNIJS-](https://user-images.githubusercontent.com/121300540/221328450-1c84e694-7192-43df-b819-17ab64d60af1.gif)
 
  
  
- # Site Universidade UNIJS
 
 
  
@@ -14,8 +15,6 @@
 
 ### Observação importante: Não é recomendado usar tabelas pra fazer sites.
 
-  
-  
 
 ## 📚 Funcionalidades
 
@@ -47,8 +46,6 @@
 ## 🔧Tecnologia utilizada
 * ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 * ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-
-  
 
 ## Autor
 
