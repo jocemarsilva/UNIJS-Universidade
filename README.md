@@ -2,13 +2,6 @@
 
 ![UNIJS-](https://user-images.githubusercontent.com/121300540/221328450-1c84e694-7192-43df-b819-17ab64d60af1.gif)
 
- 
- 
-
-
- 
- 
-
 ## Sobre o projeto Social
 
 ### Feito para ensinar jovens carentes a trabalhar com tabelas e fazer um site usando apenas html. 
@@ -23,7 +16,7 @@
 - Responsivo para smartphone
 - versão sem publicidades.
 
-# [![License: MIT](https://img.shields.io/badge/License-MIT-greem.svg)](https://opensource.org/licenses/MIT)
+## [![License: MIT](https://img.shields.io/badge/License-MIT-greem.svg)](https://opensource.org/licenses/MIT)
 
 
 ## Status do Projeto
